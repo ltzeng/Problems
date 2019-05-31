@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/ltzeng/.m2/repository/junit/junit/4.12/junit-4.12.jar" sourcepath="/Users/ltzeng/.m2/repository/junit/junit/4.11/junit-4.11-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="junit"/>
+			<attribute name="maven.artifactId" value="junit"/>
+			<attribute name="maven.version" value="4.11"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/nttcom-overlay/lib/opensaml/joda-time-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/IPcenterJ/build/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/IPcenterJ/build/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/IPcenterJ/build/lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="/IPcenterJ/build/lib/jsch-0.1.54.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
